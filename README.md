@@ -11,7 +11,7 @@ Status: _Long term support release (LTS), supported until April 2027._
 
 Download: [_Cinnamon_](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit.iso)_, [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit-edge.iso), [MATE](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-xfce-64bit.iso)_
 
-[Checksums (sha256)](https://ia601706.us.archive.org/19/items/linuxmint-archive/21.2/sha256sum.txt)
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/21.3/sha256sum.txt)
 
 
 ##
@@ -27,7 +27,7 @@ Status: _Long term support release (LTS), supported until April 2027._
 
 Download: [_Cinnamon_](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit.iso)_, [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit-edge.iso), [MATE](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-xfce-64bit.iso)_
 
-[Checksums (sha256)](https://ia601706.us.archive.org/19/items/linuxmint-archive/21.2/sha256sum.txt)
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/21.2/sha256sum.txt)
 
   ##
 
@@ -41,7 +41,7 @@ Status: _Long term support release (LTS), supported until April 2027._
 
 Download: _[Cinnamon](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-cinnamon-64bit.iso), [MATE](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-xfce-64bit.iso)_
 
-[Checksums (sha256)](https://ia601706.us.archive.org/19/items/linuxmint-archive/21.1/sha256sum.txt)
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/21.1/sha256sum.txt)
 
   ##
 
@@ -55,7 +55,7 @@ Status: _Long term support release (LTS), supported until April 2027._
 
 Download: _[Cinnamon](https://archive.org/download/linuxmint-archive/21/linuxmint-21-cinnamon-64bit.iso), [MATE](https://archive.org/download/linuxmint-archive/21/linuxmint-21-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21/linuxmint-21-xfce-64bit.iso)_
 
-[Checksums (sha256)](https://ia801706.us.archive.org/19/items/linuxmint-archive/21/sha256sum.txt)
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/21/sha256sum.txt)
 
 ##
   
@@ -67,9 +67,9 @@ Package base: _Ubuntu Focal_
 
 Status: _Obsolete since April 2025_
 
-Download: _[Cinnamon](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit.iso),_ _[Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit-edge.iso),_ _[MATE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-xfce-64bit.iso)_
+Download: _[Cinnamon](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit.iso),_ _[Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit-edge.iso),_ _[MATE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-xfce-64bit.iso)_
 
-[Checksums (sha256)](https://ia801706.us.archive.org/19/items/linuxmint-archive/20.3/sha256sum.txt)
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/20.3/sha256sum.txt)
 
   
 ##
@@ -121,7 +121,7 @@ Download: [_Cinnamon_](https://archive.org/download/linuxmint-archive/20/linuxmi
 
   ##
 
-##**Linux Mint 19.3:**
+## **Linux Mint 19.3:**
 
 Codename: _Tricia_
 
