@@ -212,3 +212,21 @@ Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/ma
 Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-cinnamon-64bit-v2.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-mate-64bit-v2.iso)), XFCE_ _([32-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-xfce-64bit-v2.iso))_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/19/sha256sum.txt)
+
+
+##
+
+
+### **Linux Mint 18.3:**
+
+Codename: _Sylvia_
+
+Package base: _Ubuntu Xenial_
+
+Status: _Obsolete since April 2021_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm18.3.png)_
+
+Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-cinnamon-64bit.iso)),_ _KDE_ _([32-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-kde-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-kde-64bit.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-mate-64bit.iso))_, _XFCE_ _([32-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.3/linuxmint-18.3-xfce-64bit.iso))_
+
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/18.3/sha256sum.txt)
