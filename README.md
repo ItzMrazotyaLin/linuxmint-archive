@@ -7,7 +7,9 @@ Codename: _Virginia_
 
 Package base: _Ubuntu Jammy_
 
-Status: _Long term support release (LTS), supported until April 2027._
+Status: _Long term support release (LTS), supported until April 2027_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.3.png)_
 
 Download (only x64): [_Cinnamon_](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit.iso)_, [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit-edge.iso), [MATE](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-xfce-64bit.iso)_
 
@@ -23,7 +25,9 @@ Codename: _Victoria_
 
 Package base: _Ubuntu Jammy_
 
-Status: _Long term support release (LTS), supported until April 2027._
+Status: _Long term support release (LTS), supported until April 2027_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.2.png)_
 
 Download (only x64): [_Cinnamon_](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit.iso)_, [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit-edge.iso), [MATE](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-xfce-64bit.iso)_
 
@@ -39,7 +43,9 @@ Codename: _Vera_
 
 Package base: _Ubuntu Jammy_
 
-Status: _Long term support release (LTS), supported until April 2027._
+Status: _Long term support release (LTS), supported until April 2027_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.1.png)_
 
 Download (only x64): _[Cinnamon](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-cinnamon-64bit.iso), [MATE](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-xfce-64bit.iso)_
 
@@ -55,7 +61,9 @@ Codename: _Vanessa_
 
 Package base: _Ubuntu Jammy_
 
-Status: _Long term support release (LTS), supported until April 2027._
+Status: _Long term support release (LTS), supported until April 2027_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.png)_
 
 Download (only x64): _[Cinnamon](https://archive.org/download/linuxmint-archive/21/linuxmint-21-cinnamon-64bit.iso), [MATE](https://archive.org/download/linuxmint-archive/21/linuxmint-21-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/21/linuxmint-21-xfce-64bit.iso)_
 
@@ -73,6 +81,8 @@ Package base: _Ubuntu Focal_
 
 Status: _Obsolete since April 2025_
 
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.3.png)_
+
 Download (only x64): _[Cinnamon](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit.iso),_ _[Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit-edge.iso),_ _[MATE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-xfce-64bit.iso)_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/20.3/sha256sum.txt)
@@ -88,6 +98,8 @@ Codename: _Uma_
 Package base: _Ubuntu Focal_
 
 Status: _Obsolete since April 2025_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.2.png)_
 
 Download (only x64): _[Cinnamon](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-cinnamon-64bit.iso),_ _[Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-cinnamon-64bit-edge.iso),_ _[MATE](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-xfce-64bit.iso)_
 
@@ -105,6 +117,8 @@ Package base: _Ubuntu Focal_
 
 Status: _Obsolete since April 2025_
 
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.1.png)_
+
 Download (only x64): _[Cinnamon](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-cinnamon-64bit.iso),_ _[Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-cinnamon-64bit-edge.iso),_ _[MATE](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-xfce-64bit.iso)_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/20.1/sha256sum.txt)
@@ -120,6 +134,8 @@ Codename: _Ulyana_
 Package base: _Ubuntu Focal_
 
 Status: _Obsolete since April 2025_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.png)_
 
 Download (only x64): [_Cinnamon_](https://archive.org/download/linuxmint-archive/20/linuxmint-20-cinnamon-64bit.iso)_,_ _[MATE](https://archive.org/download/linuxmint-archive/20/linuxmint-20-mate-64bit.iso), [XFCE](https://archive.org/download/linuxmint-archive/20/linuxmint-20-xfce-64bit.iso)_
 
@@ -137,7 +153,9 @@ Package base: _Ubuntu Bionic_
 
 Status: _Obsolete since April 2023_
 
-Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-cinnamon-64bit.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-mate-64bit.iso)), XFCE_  _([32-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-xfce-64bit.iso))_
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm19.3.png)_
+
+Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-cinnamon-64bit.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-mate-64bit.iso)), XFCE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.3/linuxmint-19.3-xfce-64bit.iso))_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/19.3/sha256sum.txt)
 
@@ -153,7 +171,9 @@ Package base: _Ubuntu Bionic_
 
 Status: _Obsolete since April 2023_
 
-Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-cinnamon-64bit.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-mate-64bit.iso)), XFCE_  _([32-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-xfce-64bit.iso))_
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm19.2.png)_
+
+Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-cinnamon-64bit.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-mate-64bit.iso)), XFCE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.2/linuxmint-19.2-xfce-64bit.iso))_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/19.2/sha256sum.txt)
 
@@ -169,6 +189,26 @@ Package base: _Ubuntu Bionic_
 
 Status: _Obsolete since April 2023_
 
-Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-cinnamon-64bit.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-mate-64bit.iso)), XFCE_  _([32-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-xfce-64bit.iso))_
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm19.1.png)_
+
+Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-cinnamon-64bit.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-mate-64bit.iso)), XFCE_ _([32-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19.1/linuxmint-19.1-xfce-64bit.iso))_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/19.1/sha256sum.txt)
+
+
+##
+
+
+### **Linux Mint 19:**
+
+Codename: _Tara_
+
+Package base: _Ubuntu Bionic_
+
+Status: _Obsolete since April 2023_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm19.png)_
+
+Download: _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-cinnamon-64bit-v2.iso)),_ _MATE_ _([32-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-mate-64bit-v2.iso)), XFCE_ _([32-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/19/linuxmint-19-xfce-64bit-v2.iso))_
+
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/19/sha256sum.txt)
