@@ -1,5 +1,23 @@
+<div align="center"><h1><b>Linux Mint Archive (1.0 - 22.3)</b> </h1></div>
 
-## **This [archive](https://archive.org/details/linuxmint-archive) contains:**
+<div align="center"> <img alt="available_at" src="https://img.shields.io/badge/available_at-internetarchive-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">  <img alt="item_size" src="https://img.shields.io/badge/item_size-140.5G-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">
+
+</div>
+
+## Available now:
+| Version | .0 | .1 | .2 | .3 |
+| - | - | - | - | - |
+| 21 |✅| ✅ | ✅ | ✅ | 
+| 20 | ✅ | ✅ | ✅ | ✅ |
+| 19 | ✅ | ✅ | ✅ | ✅ |
+| 18 | 🟥 | 🟥 | ✅ | ✅ |
+
+_✅ - full archive,_
+_🟨 - partial archive,_
+_🟥 - not archived, but will be,_
+_❌ - not archived_
+
+## **[Versions list](https://archive.org/details/linuxmint-archive)**
 
 ### **Linux Mint 21.3:**
 
