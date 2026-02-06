@@ -12,10 +12,10 @@ Status: _Long term support release (LTS), supported until April 2027_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.3.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit.iso) 
-+ [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit-edge.iso) 
-+ [MATE](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit.iso) 
++ [_Cinnamon (Edge ISO)_](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-cinnamon-64bit-edge.iso) 
++ [_MATE_](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/21.3/linuxmint-21.3-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/21.3/sha256sum.txt)
 
@@ -34,10 +34,10 @@ Status: _Long term support release (LTS), supported until April 2027_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.2.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit.iso) 
-+ [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit-edge.iso) 
-+ [MATE](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit.iso) 
++ [_Cinnamon (Edge ISO)_](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-cinnamon-64bit-edge.iso) 
++ [_MATE_](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/21.2/linuxmint-21.2-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/21.2/sha256sum.txt)
 
@@ -56,9 +56,9 @@ Status: _Long term support release (LTS), supported until April 2027_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.1.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-cinnamon-64bit.iso) 
-+ [MATE](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-cinnamon-64bit.iso) 
++ [_MATE_](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/21.1/linuxmint-21.1-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/21.1/sha256sum.txt)
 
@@ -77,9 +77,9 @@ Status: _Long term support release (LTS), supported until April 2027_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm21.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/21/linuxmint-21-cinnamon-64bit.iso) 
-+ [MATE](https://archive.org/download/linuxmint-archive/21/linuxmint-21-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/21/linuxmint-21-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/21/linuxmint-21-cinnamon-64bit.iso) 
++ [_MATE_](https://archive.org/download/linuxmint-archive/21/linuxmint-21-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/21/linuxmint-21-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/21/sha256sum.txt)
 
@@ -98,10 +98,10 @@ Status: _Obsolete since April 2025_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.3.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit.iso)
-+ [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit-edge.iso) 
-+ [MATE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit.iso)
++ [_Cinnamon (Edge ISO)_](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-cinnamon-64bit-edge.iso) 
++ [_MATE_](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/20.3/linuxmint-20.3-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/20.3/sha256sum.txt)
 
@@ -120,10 +120,10 @@ Status: _Obsolete since April 2025_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.2.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-cinnamon-64bit.iso) 
-+ [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-cinnamon-64bit-edge.iso) 
-+ [MATE](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-cinnamon-64bit.iso) 
++ [_Cinnamon (Edge ISO)_](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-cinnamon-64bit-edge.iso) 
++ [_MATE_](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/20.2/linuxmint-20.2-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/20.2/sha256sum.txt)
 
@@ -142,10 +142,10 @@ Status: _Obsolete since April 2025_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.1.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-cinnamon-64bit.iso) 
-+ [Cinnamon (Edge ISO)](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-cinnamon-64bit-edge.iso) 
-+ [MATE](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-cinnamon-64bit.iso) 
++ [_Cinnamon (Edge ISO)_](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-cinnamon-64bit-edge.iso) 
++ [_MATE_](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/20.1/linuxmint-20.1-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/20.1/sha256sum.txt)
 
@@ -164,9 +164,9 @@ Status: _Obsolete since April 2025_
 Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm20.png)_
 
 Download (only x64): 
-+ _[Cinnamon](https://archive.org/download/linuxmint-archive/20/linuxmint-20-cinnamon-64bit.iso)
-+ [MATE](https://archive.org/download/linuxmint-archive/20/linuxmint-20-mate-64bit.iso) 
-+ [XFCE](https://archive.org/download/linuxmint-archive/20/linuxmint-20-xfce-64bit.iso)_
++ [_Cinnamon_](https://archive.org/download/linuxmint-archive/20/linuxmint-20-cinnamon-64bit.iso)
++ [_MATE_](https://archive.org/download/linuxmint-archive/20/linuxmint-20-mate-64bit.iso) 
++ [_XFCE_](https://archive.org/download/linuxmint-archive/20/linuxmint-20-xfce-64bit.iso)
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/20/sha256sum.txt)
 
