@@ -1,6 +1,6 @@
 <div align="center"><h1><b>Linux Mint Archive (1.0 - 22.3)</b> </h1></div>
 
-<div align="center"> <img alt="available_at" src="https://img.shields.io/badge/available_at-internetarchive-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">  <img alt="item_size" src="https://img.shields.io/badge/item_size-140.5G-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">
+<div align="center"> <img alt="available_at" src="https://img.shields.io/badge/available_at-internet_archive-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">  <img alt="item_size" src="https://img.shields.io/badge/item_size-155.5G-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">
 
 </div>
 
@@ -11,7 +11,7 @@
 | 21 |✅| ✅ | ✅ | ✅ | 
 | 20 | ✅ | ✅ | ✅ | ✅ |
 | 19 | ✅ | ✅ | ✅ | ✅ |
-| 18 | 🟥 | 🟥 | ✅ | ✅ |
+| 18 | 🟥 | ✅ | ✅ | ✅ |
 | 17 | 🟥 | 🟥 | 🟥 | 🟥|
 | 16 | 🟥 |
 | 15 | 🟥 |
@@ -334,3 +334,25 @@ Download:
 + _XFCE ([32-bit](https://archive.org/download/linuxmint-archive/18.2/linuxmint-18.2-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.2/linuxmint-18.2-xfce-64bit.iso))_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/18.2/sha256sum.txt)
+
+
+##
+
+
+### **Linux Mint 18.1:**
+
+Codename: _Serena_
+
+Package base: _Ubuntu Xenial_
+
+Status: _Obsolete since April 2021_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm18.1.png)_
+
+Download: 
++ _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-cinnamon-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-cinnamon-64bit.iso))_ 
++ _KDE ([32-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-kde-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-kde-64bit.iso))_ 
++ _MATE ([32-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-mate-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-mate-64bit.iso))_ 
++ _XFCE ([32-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/18.1/linuxmint-18.1-xfce-64bit.iso))_
+
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/18.1/sha256sum.txt)
