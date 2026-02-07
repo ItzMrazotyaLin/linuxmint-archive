@@ -33,7 +33,7 @@
 _✅ - full archive,_
 _🟨 - partial archive,_
 _🟥 - not archived, but will be,_
-_❌ - not archived_
+_❌ - not archived,_
 _empty - doesn't exist_
 
 ## **[Versions list](https://archive.org/details/linuxmint-archive)**
