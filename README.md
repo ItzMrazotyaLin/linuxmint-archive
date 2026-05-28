@@ -1,6 +1,6 @@
 <div align="center"><h1><b>Linux Mint Archive (1.0 - 22.3)</b> </h1></div>
 
-<div align="center"> <img alt="available_at" src="https://img.shields.io/badge/available_at-internet_archive-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">  <img alt="item_size" src="https://img.shields.io/badge/item_size-196.4G-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">
+<div align="center"> <img alt="available_at" src="https://img.shields.io/badge/available_at-internet_archive-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">  <img alt="item_size" src="https://img.shields.io/badge/item_size-210.2G-black?style=for-the-badge&logo=internetarchive&link=https%3A%2F%2Farchive.org%2Fdetails%2Flinuxmint-archive">
 
 </div>
 
