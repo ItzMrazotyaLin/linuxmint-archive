@@ -12,7 +12,7 @@
 | 20 | ✅ | ✅ | ✅ | ✅ |
 | 19 | ✅ | ✅ | ✅ | ✅ |
 | 18 | ✅ | ✅ | ✅ | ✅ |
-| 17 | 🟥 | 🟨 | ✅ | 🟨 |
+| 17 | ✅ | 🟨 | ✅ | 🟨 |
 | 16 | 🟥 |
 | 15 | 🟥 |
 | 14 | 🟥 |
@@ -439,3 +439,21 @@ Download:
 + _XFCE ([32-bit](https://archive.org/download/linuxmint-archive/17.1/linuxmint-17.1-xfce-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/17.1/linuxmint-17.1-xfce-64bit.iso))_
 
 [Checksums (sha256)](https://archive.org/download/linuxmint-archive/17.1/sha256sum.txt)
+
+### **Linux Mint 17:**
+
+Codename: _Qiana_
+
+Package base: _Ubuntu Trusty_
+
+Status: _Obsolete since April 2019_
+
+Screenshot: _[Click](https://github.com/ItzMrazotyaLin/linuxmint-archive/blob/main/screenshots/lm17.png)_
+
+Download: 
++ _Cinnamon ([32-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-cinnamon-32bit-v2.iso) and [64-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-cinnamon-64bit-v2.iso))_ 
++ _KDE ([32-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-kde-dvd-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-kde-dvd-64bit.iso))_  
++ _MATE ([32-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-mate-32bit-v2.iso) and [64-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-mate-64bit-v2.iso))
++ _XFCE ([32-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-xfce-dvd-32bit.iso) and [64-bit](https://archive.org/download/linuxmint-archive/17/linuxmint-17-xfce-dvd-64bit.iso))_
+
+[Checksums (sha256)](https://archive.org/download/linuxmint-archive/17/sha256sum.txt)
